@@ -1,4 +1,4 @@
-# BuiltByCode
+# Built By Us
 
 A community for developers. I built this app straight out of Nashville Software School. The purpose is mind is to create a community that allows us to continue to learn and grow by sharing.
 
