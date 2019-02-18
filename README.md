@@ -12,24 +12,24 @@ Built with the MERN stack.
 ## Developer User Profile
 Every user can have their own profile to update accordingly.
 
-![alt text](http://www.giphy.com/gifs/9xg4ZhVmVgZhaTFbET, "User Profile")
+![alt text](./images/BBU_Profiles.gif)
 
 
 ## Customize your profile
 
 Add your pinned github repo's, personal information, experience, education, and social accounts.
 
-![alt text](http://www.giphy.com/gifs/4QEPnFy60mu7uDGU4R)
+![alt text](./images/BBU_User_Profile.gif)
 
 ## Post feed
 Communicate with others in the post feed, like or dislike eachother's posts.
 
-![alt text](http://www.giphy.com/gifs/5wFjgAghb1ZfadpVgF)
+![alt text](./images/BBU_Post.gif)
 
 ## Comment threads
 Reply to a post with threads or conversation structure.
 
-![alt text](http://www.giphy.com/gifs/YlkXhLWpndK9CET8BI)
+![alt text](./images/BBU_Thread.gif)
 
 
 # Dependencies
