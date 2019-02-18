@@ -12,7 +12,7 @@ Built with the MERN stack.
 ## Developer User Profile
 Every user can have their own profile to update accordingly.
 
-![alt text](http://www.giphy.com/gifs/9xg4ZhVmVgZhaTFbET)
+![alt text](http://www.giphy.com/gifs/9xg4ZhVmVgZhaTFbET, "User Profile")
 
 
 ## Customize your profile
